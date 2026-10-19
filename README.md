@@ -13,6 +13,7 @@ As I grow as an engineer, so does the Agentarium.
 | Directory | Description |
 | --- | --- |
 | `agents/` | Specialized AI agents with defined roles, responsibilities, and instructions. |
+| `prompts/` | Reusable prompt templates. |
 | `skills/` | Reusable knowledge and procedures for specific technologies, tools, and engineering tasks. |
 | `workflows/` | Repeatable processes for tackling common development tasks. |
 | `templates/` | Starting points for creating new agents, skills, and workflows. |
